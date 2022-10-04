@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Default Dark+",
+  "editor.fontSize": 16,
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.printWidth": 80,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "css.styleSheets": ["./style/template.min.css"],
+}
